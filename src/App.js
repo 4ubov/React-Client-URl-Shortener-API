@@ -17,7 +17,7 @@ function App() {
         longUrl,
       });
       setErrorMessage('');
-      setShortUrl('http://localhost:8080/api/'+response.data.shortUrl);
+      setShortUrl('http://localhost:8080/'+response.data.shortUrl);
       setCopied(false); // Reset copied state when a new short URL is generated
     } catch (error) {
       setShortUrl('');
