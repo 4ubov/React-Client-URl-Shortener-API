@@ -9,3 +9,5 @@
 #### Now we're have our shorted link, and button for quick copy it.
 ![image](https://user-images.githubusercontent.com/46792640/227496213-ce17d4cb-5ed0-4a89-85ac-e4f443d91941.png)
 
+#### Bad Url Format Exception:
+![image](https://user-images.githubusercontent.com/46792640/227496678-d6f4d12c-dda8-4238-a8ff-0e1e4c74f2c3.png)
